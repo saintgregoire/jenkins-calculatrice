@@ -2,6 +2,7 @@
  * Module de calculatrice pour effectuer des additions
  */
 
+
 /**
  * Additionne deux nombres
  * @param {number} a - Premier nombre
